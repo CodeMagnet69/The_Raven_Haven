@@ -1,0 +1,6 @@
+body.frontpage{
+    background-image: url("../src/bg.jpg");
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+}
