@@ -1,0 +1,18 @@
+body.frontpage{
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+}
+
+footer{
+    position: absolute;
+    display: block;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+}
